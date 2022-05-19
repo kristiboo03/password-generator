@@ -7,3 +7,5 @@
 # Built with 
 HTML, Javascript, CSS
 
+# Credits
+Starter code from https://github.com/coding-boot-camp/friendly-parakeet
